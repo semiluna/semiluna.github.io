@@ -5,7 +5,7 @@ toc: true
 ---
 
 Welcome to my personal website! I'm Antonia, an MEng and BA (Hons) graduate from the University of Cambridge.
-I was a member of King's College, and my [Director of Studies](https://www.dow.cam.ac.uk/undergraduate-study/study-downing/directors-studies) was the lovely [Prof Timothy G. Griffin](https://www.cl.cam.ac.uk/~tgg22/).
+I was a member of King's College, and my [Director of Studies](https://www.dow.cam.ac.uk/undergraduate-study/study-downing/directors-studies) was the lovely [Prof Timothy G. Griffin](https://www.cl.cam.ac.uk/~tgg22).
 
 My research interests lie within the field of Machine Learning, with a focus on **graph neural networks** and their applications in molecular tasks. I wrote my Master's thesis under the supervision of [Prof Pietro Lio](https://www.cl.cam.ac.uk/~pl219/) and two of his wonderfully talented PhD students, [Simon V. Mathis](https://www.cst.cam.ac.uk/people/svm34) and [Charlie Harris](https://cch1999.github.io). 
 
